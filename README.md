@@ -6,13 +6,6 @@ The goal of this repo is to show my progress as I learn a new programming langua
 
 You should have python3 installed. 
 
+```bash
+python3 <<folder>>/file_name.py
 ```
-python3 file_name.py
-```
-
-## Folder's organization
-
-Basically, each folder is a problem. Inside them, you'll find a Readme.md file explaining the problem and 1+ .py files each with different solutions. This is just a list of which problems you can find in the repo.
-
-* Palindrome
-* Adjacent elements product
